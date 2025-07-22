@@ -105,11 +105,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg" />
   </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssef mostafa Elmesedy/youssef mostafa Elmesedy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssef mostafa Elmesedy/youssef mostafa Elmesedy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/youssef mostafa Elmesedy/youssef mostafa Elmesedy/output/pacman-contribution-graph.svg">
-</picture>
 
 </p>
 
