@@ -10,8 +10,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+.NET+%2B+Angular+Developer;Clean+Code+%7C+SOLID+%7C+CQRS+%7C+Design+Patterns" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full+Stack+.NET+%2B+Angular+Developer;Clean+Code+%7C+SOLID+%7C+CQRS+%7C+Design+Patterns;Entity+Framework+Core+%7C+MediatR+%7C+AutoMapper+%7C+FluentValidation;SignalR+%7C+Swagger+%7C+RESTful+APIs+%7C+LINQ+%7C+Unit+Testing;Clean+Architecture+%7C+Git+%26+GitHub+%7C+Middleware+%7C+Docker;SQL+Server+%7C+PostgreSQL+%7C+Identity+%7C+JWT+Authentication+%7C+Azure+%7C+AWS" alt="Typing SVG" />
 </p>
+
 
 
 ---
