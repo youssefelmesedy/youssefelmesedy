@@ -71,8 +71,8 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefelmesedy&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelmesedy&layout=compact&theme=radical" />
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=youssefelmesedy.youssefelmesedy" />
 </p>
-
 ---
 
 ### 📌 Featured Projects
@@ -105,6 +105,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg" />
   </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssefelmesedy/youssefelmesedy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssefelmesedy/youssefelmesedy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/youssefelmesedy/youssefelmesedy/output/pacman-contribution-graph.svg">
+</picture>
+
 </p>
 
 ---
