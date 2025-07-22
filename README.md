@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! I'm <span style="color:#4DB8FF">Youssef Mostafa Elmesedy</span></h2>
-<h4 align="center">.NET Developer | Angular Enthusiast | full Stack Developer</h4>
+<h4 align="center">.NET Developer | Angular Enthusiast | Full Stack Developer</h4>
 
 ---
 
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="32" alt="Anaconda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="32" alt="PyCharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="32" alt="Canva" />
@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefelmesedy&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelmesedy&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefelmesedy&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelmesedy&layout=compact&theme=dracula" height="150" />
 </div>
 
 ---
@@ -67,17 +67,9 @@
 
 ---
 
-### 🔄 Contributions & Activity
+### 🔄 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg#gh-light-mode-only" alt="GitHub Snake Animation Light" />
+  <img src="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg#gh-light-mode-only" alt="GitHub Snake Animation" />
   <img src="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Animation Dark" />
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youssefelmesedy/youssefelmesedy/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youssefelmesedy/youssefelmesedy/output/pacman-contribution-graph.svg">
-    <img alt="Contribution graph" src="https://raw.githubusercontent.com/youssefelmesedy/youssefelmesedy/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
