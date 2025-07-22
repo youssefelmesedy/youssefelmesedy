@@ -77,8 +77,9 @@
 
 ### 📸 Live Domain Illustration (Field-Based Work)
 <p align="center">
-  <img height="180em" src="assets/image.png" />
+  <img height="180em" src="https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/image.png?raw=true" />
 </p>
+
 
 ---
 
