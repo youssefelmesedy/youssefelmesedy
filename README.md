@@ -13,11 +13,18 @@
 
 #### 💻 Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EntityFrameworkCore-6DB33F?style=for-the-badge&logo=.net&logoColor=white)
 ![CQRS](https://img.shields.io/badge/CQRS-232F3E?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
-![FluentValidation](https://img.shields.io/badge/FluentValidation-%2346B3E6?style=for-the-badge)
 ![MediatR](https://img.shields.io/badge/MediatR-%23fca103?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-46B3E6?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 
 #### 🧠 Architecture & Principles
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23f9a825?style=for-the-badge)
