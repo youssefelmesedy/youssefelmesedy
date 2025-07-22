@@ -54,7 +54,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg" />
-    <img alt="GitHub Snake" src="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/youssef mostafa Elmesedy/youssef mostafa Elmesedy/output/snake.svg" alt="Snake animation" />
   </picture>
 </p>
 
