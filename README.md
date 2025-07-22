@@ -74,17 +74,11 @@
 | **Swanie** | Social media platform for craftsmen with location-based prioritization, messaging, and portfolio. |
 
 ---
-
-### 📸 Live Domain Illustration (Field-Based Work)
-<p align="center">
-  <img height="180em" src="" style="width: 100%;/>
-</p>
-
 ### 🖼️ Live Demo – Dual View (Before & After)
 
 <p align="center">
   <img src="https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/Image.png" alt="Left Image" width="45%" style="margin-right: 10px;" />
-  <img src="assets/image2.png" alt="Right Image" width="45%" />
+  <img src="https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/Image.png" alt="Right Image" width="45%" />
 </p>
 ---
 
