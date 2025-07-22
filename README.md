@@ -20,12 +20,29 @@
 
 ---
 
-## 🧠 About Me
+<h2 align="left">👨‍💻 <span style="color:#38BDF8;">About Me</span></h2>
 
-🚀 .NET Developer with a strong passion for building clean, scalable, and maintainable applications.  
-🛠️ I specialize in Clean Architecture, SOLID principles, CQRS, and Domain-Driven Design.  
-💻 Experienced in ASP.NET Core, EF Core, Angular, Blazor, and modern Web APIs.  
-💡 Always learning and exploring new technologies like Rust for backend development.
+<p align="left" style="font-family:'Fira Code', monospace; color:#d6dee9; font-size: 16px;">
+  🚀 <strong style="color:#7dd3fc;">.NET Developer</strong> passionate about building 
+  <span style="color:#a5f3fc;">clean</span>, <span style="color:#6ee7b7;">scalable</span>, and 
+  <span style="color:#facc15;">maintainable</span> applications.
+</p>
+
+<p align="left" style="font-family:'Fira Code', monospace; color:#d6dee9; font-size: 16px;">
+  🛠️ I specialize in <span style="color:#38BDF8;">Clean Architecture</span>, 
+  <span style="color:#60A5FA;">SOLID</span> principles, <span style="color:#F87171;">CQRS</span>, 
+  and <span style="color:#FBBF24;">Domain-Driven Design</span>.
+</p>
+
+<p align="left" style="font-family:'Fira Code', monospace; color:#d6dee9; font-size: 16px;">
+  💻 Proficient in <strong style="color:#A78BFA;">ASP.NET Core</strong>, 
+  <strong style="color:#34D399;">EF Core</strong>, <strong style="color:#F472B6;">Angular</strong>, 
+  <strong style="color:#F59E0B;">Blazor</strong>, and <strong style="color:#38BDF8;">modern Web APIs</strong>.
+</p>
+
+<p align="left" style="font-family:'Fira Code', monospace; color:#d6dee9; font-size: 16px;">
+  💡 Always learning — currently exploring <span style="color:#FF6C37;">Rust 🦀</span> for backend development.
+</p>
 
 ---
 
