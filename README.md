@@ -16,6 +16,15 @@
 
 ---
 
+## 🧠 About Me
+
+🚀 .NET Developer with a strong passion for building clean, scalable, and maintainable applications.  
+🛠️ I specialize in Clean Architecture, SOLID principles, CQRS, and Domain-Driven Design.  
+💻 Experienced in ASP.NET Core, EF Core, Angular, Blazor, and modern Web APIs.  
+💡 Always learning and exploring new technologies like Rust for backend development.
+
+---
+
 ### 🚀 Tech Stack
 
 #### 💻 Backend
