@@ -77,8 +77,7 @@
 
 ### 📸 Live Domain Illustration (Field-Based Work)
 
-![Live Domain](https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/live-craftsman-demo.gif)
-
+![Live Domain](https://i.postimg.cc/abcXYZ/live-craftsman-demo.gif)
 ---
 
 ### 🐍 Contributions Snake
