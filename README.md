@@ -81,7 +81,7 @@
 ### 📷 Live Illustration
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif](https://img.pikbest.com/backgrounds/20250127/programming-code-and-digital-technology-in-cybersecurity-with-blue-hues_11463098.jpg!w700wp)" width="500" alt="Coding Dino" />
+  <img align="right" height="150" src="https://img.pikbest.com/backgrounds/20250127/programming-code-and-digital-technology-in-cybersecurity-with-blue-hues_11463098.jpg!w700wp"  />
 </p>
 
 ---
