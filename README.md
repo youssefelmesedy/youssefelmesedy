@@ -1,6 +1,13 @@
-<!-- 👋 Welcome Section -->
-<h1 align="center">Hi there, I'm Youssef Elmesedy 👋</h1>
-<h3 align="center">.NET Developer | Angular Enthusiast | Clean Architecture Advocate</h3>
+<!-- 👋 Welcome Section with Animated Hand -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;" />
+  <span style="font-family: 'Fira Code', monospace;">Hi there, I'm</span>
+  <span style="color:#38BDF8; font-weight:bold;">Youssef Elmesedy</span>
+</h1>
+
+<h3 align="center" style="color: #A6E3E9; font-style: italic;">
+  .NET Developer | Angular Enthusiast | Clean Architecture Advocate
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+.NET+%2B+Angular+Developer;Clean+Code+%7C+SOLID+%7C+CQRS+%7C+Design+Patterns" alt="Typing SVG" />
