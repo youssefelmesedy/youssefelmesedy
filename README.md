@@ -1,8 +1,13 @@
 <!-- 👋 Welcome Section with Animated Hand -->
-<h1 align="center">
+<h1 align="left">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;" />
-  <span style="font-family: 'Fira Code', monospace;">Hi there, I'm</span>
-  <span style="color:#38BDF8; font-weight:bold;">Youssef Elmesedy</span>
+  <span style="font-family: 'Fira Code', monospace;">Hi! You're most welcome to my coding journey 👨‍💻</span>
+</h1>
+
+<h1 align="left" style="font-family: 'Fira Code', monospace;">
+  <span style="background: linear-gradient(to right, #38BDF8, #4ADE80, #F472B6, #FACC15); -webkit-background-clip: text; color: transparent; font-weight: 900;">
+    ✨ Y𝒐𝐔𝓢𝓢e𝓕 E𝓵𝓜𝐄𝓢𝐞𝐃𝓨 ✨
+  </span>
 </h1>
 
 <h3 align="center" style="color: #A6E3E9; font-style: italic;">
@@ -12,8 +17,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full+Stack+.NET+%2B+Angular+Developer;Clean+Code+%7C+SOLID+%7C+CQRS+%7C+Design+Patterns;Entity+Framework+Core+%7C+MediatR+%7C+AutoMapper+%7C+FluentValidation;SignalR+%7C+Swagger+%7C+RESTful+APIs+%7C+LINQ+%7C+Unit+Testing;Clean+Architecture+%7C+Git+%26+GitHub+%7C+Middleware+%7C+Docker;SQL+Server+%7C+PostgreSQL+%7C+Identity+%7C+JWT+Authentication+%7C+Azure+%7C+AWS" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
