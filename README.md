@@ -3,8 +3,9 @@
 <h3 align="center">.NET Developer | Angular Enthusiast | Clean Architecture Advocate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+%2B+Angular+Developer;Clean+Code+%7C+SOLID+%7C+CQRS+%7C+Design+Patterns" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+.NET+%2B+Angular+Developer;Clean+Code+%7C+SOLID+%7C+CQRS+%7C+Design+Patterns" alt="Typing SVG" />
 </p>
+
 
 ---
 
