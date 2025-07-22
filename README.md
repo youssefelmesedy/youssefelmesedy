@@ -77,9 +77,10 @@
 
 ### 🌐 Let's Connect
 
-- 📧 Email: youssefelmesedy6@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yousef-elmesedy-46b566291](https://linkedin.com/in/yousef-elmesedy-46b566291)  
-- 🐙 GitHub: [github.com/youssefelmesedy](https://github.com/youssefelmesedy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousef-elmesedy-46b566291)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/youssefelmesedy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefelmesedy6@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201018833877)
 
 ---
 
