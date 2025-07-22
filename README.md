@@ -84,17 +84,24 @@
 
 ---
 ### 🖼️ Live Demo – Dual View (Before & After)
-<p align="center">
-  <img src="https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/Image.png" 
-       alt="Left Image" 
-       width="45%" 
-       style="margin-right: 2%; vertical-align: middle;" />
-       
-  <img src="https://img.pikbest.com/backgrounds/20250127/programming-code-and-digital-technology-in-cybersecurity-with-blue-hues_11463098.jpg!w700wp" 
-       alt="Right Image" 
-       width="45%" 
-       style="vertical-align: middle;" />
-</p>
+
+<h3 align="center">
+
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://img.pikbest.com/wp/202348/software-development-3d-rendering-of-web-design-elements-with-indicators-for-internet-on-a-light-display-background_9775426.jpg!w700wp" 
+           alt="Right Image" 
+           width="90%" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/Image.png" 
+           alt="Left Image" 
+           width="90%" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
