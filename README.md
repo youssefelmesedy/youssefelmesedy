@@ -69,13 +69,10 @@
 
 ### 🔄 Contributions & Activity
 
-<div align="center">
-### 🐍 Snake activity graph
-
-![GitHub Snake Light](https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake-dark.svg#gh-dark-mode-only)
-
-</div>
+<p align="center">
+  <img src="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg#gh-light-mode-only" alt="GitHub Snake Animation Light" />
+  <img src="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Animation Dark" />
+</p>
 
 <div align="center">
   <picture>
