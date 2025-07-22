@@ -77,8 +77,9 @@
 
 ### 📸 Live Domain Illustration (Field-Based Work)
 <p align="center">
-  <img height="180em" src="[https://img.pikbest.com/backgrounds/20250127/programming-code-and-digital-technology-in-cybersecurity-with-blue-hues_11463098.jpg!w700wp](https://chatgpt.com/s/m_687efa0f91e08191b7c78a4091ec8fb9)" />
+  <img height="180em" src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/your-image.jpg?raw=true" />
 </p>
+
 ---
 
 ### 🐍 Contributions Snake
