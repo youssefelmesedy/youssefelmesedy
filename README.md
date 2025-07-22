@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/EntityFrameworkCore-6DB33F?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/CQRS-232F3E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MediatR-%23fca103?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FluentValidation-46B3E6?style=for-the-badge" />
@@ -69,6 +68,7 @@
 #### 🧠 Architecture & Principles
 <p align="left">
   <img src="https://img.shields.io/badge/Clean%20Architecture-%23f9a825?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/CQRS-232F3E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design%20Patterns-%23A97BFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-%23007396?style=for-the-badge" />
