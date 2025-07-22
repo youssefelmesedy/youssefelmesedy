@@ -73,16 +73,58 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelmesedy&layout=compact&theme=radical" />
    <img src="https://visitor-badge.laobi.icu/badge?page_id=youssefelmesedy.youssefelmesedy" />
 </p>
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **MarketPOS.API** | Clean Architecture supermarket POS system with CQRS, FluentValidation, and SOLID principles. |
-| **Swanie** | Social media platform for craftsmen with location-based prioritization, messaging, and portfolio. |
 
 ---
+
+### 📌 Featured Projects – Clean UI Preview
+
+<p align="center">
+<table align="center" width="100%">
+  <tr> 
+    <!-- MarketPOS.API -->
+    <td align="center" width="50%" valign="top"> 
+      <a href="https://github.com/youssefelmesedy/MarketPOS.API" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/pos-terminal.png" alt="POS Icon" />
+        <br /> <strong>🛒 MarketPOS.API</strong> </a> <br /><br /> 
+      <sub> 
+        💼 <strong>
+          Supermarket POS System
+        </strong>
+        <br/>
+          <br />
+        ✅ Clean Architecture
+        <br />
+        ✅ CQRS & SOLID Principles
+        <br />
+        ✅ FluentValidation 
+        <br /> 
+        ✅ Multi-Unit Inventory Support 
+        <br />
+        ✅ Role-Based Discount Engine 
+      </sub>
+    </td>
+<!-- Swanie -->
+<td align="center" width="50%" valign="top">
+  <a href="https://github.com/youssefelmesedy/Swanie" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/workers-male.png" alt="Craftsmen Icon" />
+    <br />
+    <strong>🧰 Swanie</strong>
+  </a>
+  <br /><br />
+  <sub>
+    🌐 <strong>Craftsmen Social Platform</strong><br /><br />
+    📍 Location-Based Prioritization <br />
+    💬 Messaging Between Users <br />
+    🎨 Portfolio Showcasing <br />
+    🧑‍🔧 Multiple Roles: Craftsman, Client, Company <br />
+    🔍 Smart Profile Discovery
+  </sub>
+</td>
+</tr> 
+</table>
+
+---
+
 ### 🖼️ Live Demo – Dual View (Before & After)
 
 <h3 align="center">
