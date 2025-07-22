@@ -71,7 +71,6 @@
 ![DDD](https://img.shields.io/badge/DDD-Domain%20Driven%20Design-%23007396?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=grpc&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge&logo=microgen&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-003366?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 🎨 Frontend
@@ -97,6 +96,7 @@
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-003366?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
