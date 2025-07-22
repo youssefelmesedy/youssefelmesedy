@@ -105,7 +105,7 @@
     </td>
 <!-- Swanie -->
 <td align="center" width="50%" valign="top">
-  <a href="https://github.com/youssefelmesedy/Swanie" target="_blank">
+  <a href="https://github.com/youssefelmesedy/Swanie.API" target="_blank">
     <img src="https://img.icons8.com/fluency/48/workers-male.png" alt="Craftsmen Icon" />
     <br />
     <strong>🧰 Swanie</strong>
