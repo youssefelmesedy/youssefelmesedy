@@ -92,9 +92,10 @@
 ### 🐍 Contributions Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/youssefelmesedy/youssefelmesedy/raw/output/snake.svg" />
+   <br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
   </picture>
 </p>
 
