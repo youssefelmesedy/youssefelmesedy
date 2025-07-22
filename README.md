@@ -60,8 +60,13 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefelmesedy&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelmesedy&layout=compact&theme=radical" />
+  <img src="https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/Image.png" 
+       alt="Left Image" 
+       style="width: 45%; height: 300px; object-fit: cover; margin-right: 2px; border-radius: 10px;" />
+
+  <img src="https://img.pikbest.com/backgrounds/20250127/programming-code-and-digital-technology-in-cybersecurity-with-blue-hues_11463098.jpg!w700wp" 
+       alt="Right Image" 
+       style="width: 45%; height: 300px; object-fit: cover; border-radius: 10px;" />
 </p>
 
 ---
