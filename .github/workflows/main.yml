@@ -2,24 +2,23 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # كل يوم الساعة 12 منتصف الليل
-  workflow_dispatch:     # تقدر تشغله يدويًا من Actions
+    - cron: "0 0 * * *"  # كل يوم
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: https://github.com/youssefelmesedy
           outputs: |
             ./output/snake.svg
             ./output/snake-dark.svg
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+          color_snake: '#00FFEF'
+          color_dots: '#111111,#222222,#333333,#444444,#38BDF8'
+          background_color: '#000000'
+      - name: Push the generated files
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./output
+          message: "Update GitHub contribution snake"
