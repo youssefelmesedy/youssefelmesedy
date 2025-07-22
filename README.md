@@ -70,7 +70,7 @@
 ### 🔄 Contributions & Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/youssef mostafa Elmesedy/youssef mostafa Elmesedy/output/snake.svg" alt="Snake animation" />
+![mian](https://github.com/youssefelmesedy/youssefelmesedy/blob/output/snake.svg)
 
 </div>
 
