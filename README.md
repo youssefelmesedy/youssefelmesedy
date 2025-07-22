@@ -77,7 +77,7 @@
 
 ### 📸 Live Domain Illustration (Field-Based Work)
 <p align="center">
-  <img height="180em" src="https://github.com/USERNAME/REPO_NAME/blob/main/assets/your-image.jpg?raw=true" />
+  <img height="180em" src="assets/image.png" />
 </p>
 
 ---
