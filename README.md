@@ -1,12 +1,13 @@
-<h2 align="center">Hi 👋! I'm Youssef Mostafa Elmesedy</h2>
+<h2 align="center">Hi 👋! I'm <span style="color:#4DB8FF">Youssef Mostafa Elmesedy</span></h2>
 <h4 align="center">.NET Developer | Angular Enthusiast | Clean Architecture Advocate</h4>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefelmesedy&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelmesedy&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-</div>
+### 👨‍💻 About Me
+
+- 💼 I’m a passionate .NET Full Stack Developer with hands-on experience in **Clean Architecture**, **CQRS**, and modern frontend tools like **Angular**.
+- 🚀 I love building scalable systems and crafting clean, maintainable code.
+- 📚 Always learning and exploring technologies like **Rust**, **Azure**, and **Microservices**.
 
 ---
 
@@ -31,6 +32,22 @@
 
 ---
 
+### 📌 Featured Projects
+
+- 🔸 [MarketPOS.API](https://github.com/youssefelmesedy/MarketPOS.API) — Supermarket cashier system using Clean Architecture & CQRS.
+- 🔸 [Swanie.API](https://github.com/youssefelmesedy/Swanie.API) — Social platform for craftsmen with multi-role user structure.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefelmesedy&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelmesedy&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -43,7 +60,7 @@
   <a href="https://wa.me/201019463877" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/youssefelmesedy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" />
   </a>
 </div>
