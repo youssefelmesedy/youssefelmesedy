@@ -77,7 +77,7 @@
 
 ### 📸 Live Domain Illustration (Field-Based Work)
 <p align="center">
-  <img height="180em" src="https://img.pikbest.com/backgrounds/20250127/programming-code-and-digital-technology-in-cybersecurity-with-blue-hues_11463098.jpg!w700wp](https://i.postimg.cc/abcXYZ/live-craftsman-demo.gif)" />
+  <img height="180em" src="https://img.pikbest.com/backgrounds/20250127/programming-code-and-digital-technology-in-cybersecurity-with-blue-hues_11463098.jpg!w700wp" />
 </p>
 ---
 
