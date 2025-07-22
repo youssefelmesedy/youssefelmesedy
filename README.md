@@ -75,11 +75,18 @@
 
 ---
 ### 🖼️ Live Demo – Dual View (Before & After)
-
 <p align="center">
-  <img src="https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/Image.png" alt="Left Image" width="45%" height="50%" style="margin-right: 10px;" />
-  <img src="https://img.pikbest.com/backgrounds/20250127/programming-code-and-digital-technology-in-cybersecurity-with-blue-hues_11463098.jpg!w700wp" alt="Right Image" width="45%" height="75%" />
+  <img src="https://github.com/youssefelmesedy/youssefelmesedy/blob/main/assets/Image.png" 
+       alt="Left Image" 
+       width="45%" 
+       style="margin-right: 2%; vertical-align: middle;" />
+       
+  <img src="https://img.pikbest.com/backgrounds/20250127/programming-code-and-digital-technology-in-cybersecurity-with-blue-hues_11463098.jpg!w700wp" 
+       alt="Right Image" 
+       width="45%" 
+       style="vertical-align: middle;" />
 </p>
+
 ---
 
 ### 🐍 Contributions Snake
