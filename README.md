@@ -3,13 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;" />
   <span style="font-family: 'Fira Code', monospace;">Hi! You're most welcome to my coding journey 👨‍💻</span>
 </h1>
-
-<h1 align="left" style="font-family: 'Fira Code', monospace;">
-  <span style="background: linear-gradient(to right, #38BDF8, #4ADE80, #F472B6, #FACC15); -webkit-background-clip: text; color: transparent; font-weight: 900;">
-    ✨Im,  Y𝒐𝐔𝓢𝓢e𝓕 E𝓵𝓜𝐄𝓢𝐞𝐃𝓨 ✨
-  </span>
+<h1 align="center">
+  ✨ I'm <span style="font-weight:bold;">Y𝒐𝐔𝓢𝓢e𝓕 E𝓵𝓜𝐄𝓢𝐞𝐃𝓨</span> ✨
 </h1>
-
 <h3 align="center" style="color: #A6E3E9; font-style: italic;">
   .NET Developer | Angular Enthusiast | Clean Architecture Advocate
 </h3>
