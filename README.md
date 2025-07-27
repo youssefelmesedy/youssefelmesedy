@@ -6,7 +6,7 @@
 
 <h1 align="left" style="font-family: 'Fira Code', monospace;">
   <span style="background: linear-gradient(to right, #38BDF8, #4ADE80, #F472B6, #FACC15); -webkit-background-clip: text; color: transparent; font-weight: 900;">
-    ✨ Y𝒐𝐔𝓢𝓢e𝓕 E𝓵𝓜𝐄𝓢𝐞𝐃𝓨 ✨
+    ✨Im,  Y𝒐𝐔𝓢𝓢e𝓕 E𝓵𝓜𝐄𝓢𝐞𝐃𝓨 ✨
   </span>
 </h1>
 
